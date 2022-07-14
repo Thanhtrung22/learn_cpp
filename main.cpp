@@ -18,17 +18,7 @@ void debai(){
 }
 // ham in ra cac yeu cau de bai
 void menu(){
-	printf("\n\t=========MENU===========\n\n");
-	printf("1.Nhap mang\n");
-	printf("2.Xuat mang\n");
-	printf("3.Dem so phan tu am\n");
-	printf("4.Tim phan tu max va min cua mang\n");
-	printf("5.Tim phan tu am lon nhat va duong be nhat cua mang\n");
-	printf("6.Liet ke cac so nguyen to co trong mang\n");
-	printf("7.Liet ke cac so chinh phuong co trong mang\n");
-	printf("8.Sap xep mang theo thu tu tang dan\n");
-	printf("9.Sap xep mang theo thu tu giam dan\n");
-	printf("10.Xoa man hinh\n");
+	
 	printf("11.Tro ve ham main\n");
 	printf("12.Thoat chuong trinh\n");
 	}
